@@ -29,7 +29,7 @@ console.log(ndstring.toString(y))
 
 ## Install
 
-    npm install ndstring
+    npm install ndarray-string
     
 ## API
 
