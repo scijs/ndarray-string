@@ -1,0 +1,36 @@
+{
+  "name": "ndarray-string",
+  "version": "0.0.0",
+  "description": "ndarray views of strings",
+  "main": "ndstring.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "ndarray": "~1.0.5"
+  },
+  "devDependencies": {
+    "tape": "~1.0.4"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikolalysenko/ndarray-string.git"
+  },
+  "keywords": [
+    "ndarray",
+    "string",
+    "utf",
+    "unicode",
+    "view"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "dab88d022ea8fab96da92ab6c2c1e26070c1671f",
+  "bugs": {
+    "url": "https://github.com/mikolalysenko/ndarray-string/issues"
+  }
+}
