@@ -1,25 +1,26 @@
 {
   "name": "ndarray-string",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "ndarray views of strings",
   "main": "ndstring.js",
   "directories": {
     "test": "test"
   },
   "dependencies": {
-    "ndarray": "~1.0.5"
+    "ndarray": "^1.0.18"
   },
   "devDependencies": {
-    "tape": "~1.0.4"
+    "tape": "^4.0.0"
   },
   "scripts": {
-    "test": "tap test/*.js"
+    "test": "tape test/*.js"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mikolalysenko/ndarray-string.git"
+    "url": "git://github.com/scijs/ndarray-string.git"
   },
   "keywords": [
+    "scijs",
     "ndarray",
     "string",
     "utf",
@@ -31,6 +32,6 @@
   "readmeFilename": "README.md",
   "gitHead": "dab88d022ea8fab96da92ab6c2c1e26070c1671f",
   "bugs": {
-    "url": "https://github.com/mikolalysenko/ndarray-string/issues"
+    "url": "https://github.com/scijs/ndarray-string/issues"
   }
 }
