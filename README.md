@@ -2,6 +2,8 @@ ndarray-string
 ==============
 Turns a string into an [ndarray](https://github.com/mikolalysenko/ndarray)
 
+[![build status](https://secure.travis-ci.org/scijs/ndarray-string.png)](http://travis-ci.org/scijs/ndarray-string)
+
 ## Example
 ### Conversion
 ```javascript
